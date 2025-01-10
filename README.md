@@ -2,6 +2,6 @@
 - 👀 I’m interested in artificial intelligence, web development, and exploring new programming languages.
 - 🌱 I’m currently learning about data structures and algorithms, as well as deep learning techniques.
 - 💞️ I’m looking to collaborate on open-source projects, especially those related to AI and data science!
-- 📫 How to reach me: You can find me on [LinkedIn](your-linkedin-url) or email me at han.yiton@example.com.
+- 📫 How to reach me: You can email me at 2338259365@qq.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can code in my sleep (well, almost)! 😄
